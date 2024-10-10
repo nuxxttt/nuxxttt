@@ -4,6 +4,7 @@
 </p>
 
 
-[([https://stats.quira.sh/nuxxttt/languages-over-time?theme=dark](https://raw.githubusercontent.com/nuxxttt/nuxxttt/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only))]
+[[([https://stats.quira.sh/nuxxttt/languages-over-time?theme=dark](https://raw.githubusercontent.com/nuxxttt/nuxxttt/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only))]
+](https://raw.githubusercontent.com/nuxxttt/nuxxttt/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 (#)
 [![nuxxttt's GitHub | Languages Over Time](https://stats.quira.sh/nuxxttt/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=nuxxttt)
