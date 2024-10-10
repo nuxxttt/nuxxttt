@@ -1,6 +1,6 @@
 <p align="center" style="text-align: center;">
   <br>
-  <small>nothing to see</small>
+  <small>Ingin Menjadi Programmer Handal, Namun Enggan Ngoding</small>
 </p>
 
 
